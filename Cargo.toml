@@ -1,0 +1,12 @@
+[package]
+name = "swarm"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+cortex-m = "0.7.7"
+cortex-m-rt = "0.7.5"
+panic-halt = "1.0.0"
+
+[dev-dependencies]
+probe-rs = "0.29.1"

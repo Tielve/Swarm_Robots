@@ -1,0 +1,4 @@
+west:
+  command: /usr/bin/west build -b blackpill_f411ce -p always
+  topdir: /home/jonathan/zephyrproject
+  version: 1.4.0
